@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Post"
-    url: /serdarcanb/post/
+    url: /_posts/
   - title: "About"
     url: /serdarcanb/about
   # - title: "Sample Collections"

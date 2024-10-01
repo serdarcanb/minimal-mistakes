@@ -314,7 +314,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -323,3 +323,17 @@ defaults:
       comments:  true
       share: true
       related: true
+      sidebar:
+        nav: "posts"      
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments:  true
+      share: true
+      related: true      
+      sidebar:
+        nav: "pages"      
