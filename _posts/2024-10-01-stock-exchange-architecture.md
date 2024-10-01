@@ -18,7 +18,7 @@ tags:
 - Architecture
 - DevOps
 
-excerpt: Stock exchange architecture refers to the design and structure of the technological systems that facilitate the trading of securities. It ensures efficient, secure, and high-speed execution of trades, often incorporating features like low-latency communication, fault tolerance, and real-time data processing to support global financial markets*.
+excerpt: Stock exchange architecture is the system design that enables fast, secure, and efficient trading of securities, ensuring real-time data processing and reliability in financial markets*.
 pinned: false
 
 ---
