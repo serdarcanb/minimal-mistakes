@@ -1,9 +1,17 @@
 ---
-layout: page
+layout: single
+tags:
+modified: 2024-10-01
+header:
+  overlay_image: bio-photo.png
+excerpt: "<br>"
+author: Serdarcan Buyukdereli
 title: About Me
 permalink: /about/
 author_profile: true
+comments: true
 ---
+
 
 ![Profile Picture](/assets/images/bio-photo.png)
 
@@ -32,6 +40,7 @@ I hold a **Bachelor’s Degree in Electronics and Communication Engineering** fr
 Feel free to connect with me to discuss DevOps, cloud technologies, or any new opportunities where I can contribute my expertise.
 
 - **Email:** [serdarcanbuyukdereli@gmail.com](mailto:serdarcanbuyukdereli@gmail.com)
-- **LinkedIn:** [Serdarcan Büyükdereli](https://medium.com/@serdarcanbuyukdereli)
+- **Medium:** [Serdarcan Büyükdereli](https://medium.com/@serdarcanbuyukdereli)
+- **LinkedIn:** [Serdarcan Büyükdereli](https://linkedin.com/in/serdarcanbuyukdereli/)
 
 ---
