@@ -2,11 +2,9 @@
 layout: single
 tags:
 modified: 2024-10-01
-header:
-  overlay_image: bio-photo.png
 excerpt: "<br>"
 author: Serdarcan Buyukdereli
-title: About Me
+title: About
 permalink: /about/
 author_profile: true
 comments: true

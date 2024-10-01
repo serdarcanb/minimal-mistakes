@@ -3,7 +3,7 @@
 Serdarcan Buyukdereli:
   name        : "Serdarcan Buyukdereli"
   bio         : "DevOps and Cloud Engineer"
-  avatar      : "/assets/images/mylogo.svg"
+  avatar      : "/assets/images/bio-photo.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -11,6 +11,12 @@ Serdarcan Buyukdereli:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://serdarcanb.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/serdarcanb"      
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/serdarcanbuyukdereli/"          
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/SBigriver"
