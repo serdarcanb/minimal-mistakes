@@ -27,6 +27,7 @@ baseurl                  : #"/"
 repository               : "serdarcanb/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/mylogo.svg"
 logo                     : "/assets/images/mylogo.svg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+og_image                 : "/assets/images/mylogo.svg"
 masthead_title           : "Tech Tips from Serdarcan" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
