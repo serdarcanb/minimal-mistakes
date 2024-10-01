@@ -4,7 +4,7 @@ tags:
 modified: 2024-10-01
 excerpt: "<br>"
 author: Serdarcan Buyukdereli
-title: About
+title: About Me
 permalink: /about/
 author_profile: true
 comments: true
