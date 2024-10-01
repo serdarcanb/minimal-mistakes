@@ -1,60 +1,36 @@
 ---
 layout: page
-title: About Serdarcan Büyükdereli
+title: About Me
 permalink: /about/
 ---
 
-## Serdarcan Büyükdereli
+![Profile Picture](/assets/images/bio-photo.png)
 
-I am an experienced **DevOps and Cloud Engineer** with over 7 years of expertise in microservice architecture and cloud infrastructure management. I specialize in continuous integration, deployment automation, and optimizing system performance to drive operational efficiency. My technical skills span across a wide range of technologies, including **Docker, Kubernetes, Helm, Ansible, Terraform,** and **cloud services** like **AWS**.
+## About Serdarcan Büyükdereli
 
-I have a strong passion for learning and staying up to date with the latest industry trends and tools. Throughout my career, I have worked in high-pressure environments, solving complex problems and collaborating with cross-functional teams. I thrive on troubleshooting issues and improving system performance to deliver effective solutions.
+I am **Serdarcan Büyükdereli**, an experienced **DevOps and Cloud Engineer** with over 7 years of expertise in **microservice architecture** and **cloud infrastructure management**. Throughout my career, I have gained hands-on experience in managing and automating cloud-based systems using tools like **Docker**, **Kubernetes**, **Helm**, **Ansible**, **Terraform**, and **GitOps** processes. My work also includes the integration and management of **PostgreSQL**, **Kafka**, **Redis**, and **Prometheus** monitoring systems.
 
----
+Currently, I am a **Senior DevOps Engineer** at **arabam.com**, where I lead cloud deployment initiatives, manage large-scale systems, and ensure seamless integration of various DevOps tools to improve operational efficiency. My role also involves optimizing infrastructure, ensuring scalability, and leveraging automation tools to maintain system health.
 
-### **Current Role: Senior DevOps Engineer at arabam.com**
-*September 2023 - Present*
+I have had the privilege of working with several leading companies, including **Insider**, **BİTES - Defense & Aerospace Technologies**, **TURK AI**, and **Netgsm**, where I was involved in migrating services to **AWS ECS**, managing **EKS clusters**, integrating **CI/CD pipelines**, and implementing scalable, secure solutions for cloud environments.
 
-- Managing Docker, Kubernetes, Helm, Ansible, and Terraform.
-- Integration and management of PostgreSQL, Kafka, Redis.
-- Working on GitOps and AWS infrastructure using Terraform and Terragrunt.
-- Monitoring with Prometheus integrated with Consul.
+### My Approach
+I thrive in high-pressure environments and excel at troubleshooting complex issues to provide effective, scalable solutions. I am passionate about staying up to date with the latest industry trends and continuously learning new technologies to drive innovation within my team and organization. Collaboration is key to my work, as I enjoy partnering with development teams and stakeholders to deliver impactful results.
 
----
+### Education and Certifications
+I hold a **Bachelor’s Degree in Electronics and Communication Engineering** from **Süleyman Demirel University** and have earned certifications such as **Certified Kubernetes Administrator (2023)** and **White Hat Hacker (2019)**, which demonstrate my commitment to staying at the forefront of industry developments.
 
-### **Experience Overview:**
+### Key Skills and Expertise
+- **Cloud Infrastructure Management** (AWS, DigitalOcean)
+- **Container Orchestration** (Docker, Kubernetes)
+- **Infrastructure as Code** (Terraform, Ansible)
+- **Continuous Integration and Deployment** (Gitlab CI/CD, Jenkins)
+- **Monitoring and Logging** (Prometheus, Grafana, ELK Stack)
 
-- **Insider** (Dec 2021 - Sept 2023): Worked on AWS services, migrated applications, and managed EKS Clusters.
-- **BITES - Defense & Aerospace Technologies** (Dec 2020 - Dec 2021): Managed Kubernetes, Zabbix, and helped with various cloud integrations.
-- **TURK AI** (Oct 2020 - Dec 2020): Managed Docker, GitLab CI/CD, and microservices integrations.
-- **Netgsm** (Jan 2018 - Aug 2020): Integrated Proxmox, Docker, Kubernetes, and implemented ELK Stack.
-- **Internship at Netgsm** (Oct 2017 - Jan 2018): Worked on network and Linux systems.
-
----
-
-### **Education:**
-- **Süleyman Demirel University**  
-  Bachelor’s Degree in **Electronics and Communication Engineering** (2012 - 2018)
-
----
-
-### **Certifications:**
-- Certified Kubernetes Administrator (2023)
-- White Hat Hacker (2019)
-- MTCNA & MTCIPv6E (2018)
-
----
-
-### **Languages:**
-- **English**: Professional proficiency
-
----
-
-### **Get in Touch:**
+### Get in Touch
+Feel free to connect with me to discuss DevOps, cloud technologies, or any new opportunities where I can contribute my expertise.
 
 - **Email:** [serdarcanbuyukdereli@gmail.com](mailto:serdarcanbuyukdereli@gmail.com)
-- **LinkedIn/Website:** [Medium profile](https://medium.com/@serdarcanbuyukdereli)
+- **LinkedIn:** [Serdarcan Büyükdereli](https://medium.com/@serdarcanbuyukdereli)
 
 ---
-
-Thanks for visiting my page! Feel free to reach out if you want to discuss DevOps, Cloud, or new opportunities.
