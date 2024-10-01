@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
+author_profile: true
 ---
 
 ![Profile Picture](/assets/images/bio-photo.png)
