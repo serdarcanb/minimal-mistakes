@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Blog"
-    url: /serdarcanb/blog/
+  - title: "Home"
+    url: /
+  - title: "Post"
+    url: /serdarcanb/post/
   - title: "About"
     url: /serdarcanb/about
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
