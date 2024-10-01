@@ -326,7 +326,12 @@ defaults:
       related: true
       sidebar:
         nav: "posts"      
-   
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 collections:
   posts:
