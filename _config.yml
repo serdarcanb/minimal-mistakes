@@ -337,3 +337,8 @@ defaults:
       related: true      
       sidebar:
         nav: "pages"      
+
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
