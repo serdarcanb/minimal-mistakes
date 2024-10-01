@@ -27,7 +27,7 @@ pinned: false
 
 ## **a. Microservice Architecture**
 
-<img src="assets/images/System-Architecture Design-01.png" alt="System-Architecture Design-01.png" width="500" height="500">
+ ![image.png](https://serdarcanb.github.io/assets/images/System-Architecture-Design-01.png)
 
 ### **i.  Advantages of Microservices:**
 
@@ -47,7 +47,7 @@ As shown in the image, after an incoming request, we can route requests directly
 
 ## **b. Real-Time Updates**
 
-<img src="assets/images/System-Architecture Design-02.png" alt="System-Architecture Design-02.png" width="500" height="300">
+ ![image.png](https://serdarcanb.github.io/assets/images/System-Architecture-Design-02.png)
 
 ### **i. Event-Driven Architecture:**
 
@@ -91,13 +91,13 @@ As shown in the image, after an incoming request, we can route requests directly
         - **Event-Driven:** Services progress transactions by reacting to events.
         - **Loose Coupling:** Operates without a central coordinator.
             
-            ![image.png](assets/images/System-Architecture Design-03.png)
+            ![image.png](https://serdarcanb.github.io/assets/images/System-Architecture-Design-03.png)
             
     - **Orchestrated Sagas:**
         - **Central Coordinator:** An orchestrator service manages the transaction flow.
         - **Controlled Flow:** The sequence and logic of transaction steps are centrally determined.
             
-            ![image.png](assets/images/System-Architecture Design-04.png)
+            ![image.png](https://serdarcanb.github.io/assets/images/System-Architecture-Design-04.png)
 
 ## **d. High Availability and Scalability**
 
@@ -113,11 +113,11 @@ As shown in the image, after an incoming request, we can route requests directly
 - **Deployment Strategies:**
     - **Blue/Green Deployment:** New and old versions run simultaneously; traffic is redirected to the new version before the old version is removed.
         
-        ![image.png](assets/images/System-Architecture Design-05.png)
+        ![image.png](https://serdarcanb.github.io/assets/images/System-Architecture-Design-05.png)
         
     - **Canary Deployment:** The new version is initially presented to a small group of users; if no issues arise, it is rolled out to all users.
         
-        ![image.png](assets/images/System-Architecture Design-06.png)
+        ![image.png](https://serdarcanb.github.io/assets/images/System-Architecture-Design-06.png)
         
 
 ### **ii. Load Balancing and Traffic Management:**
@@ -126,7 +126,7 @@ As shown in the image, after an incoming request, we can route requests directly
     - **Reverse Proxy and Load Balancer:** Balances incoming requests across servers.
     - **SSL/TLS Termination:** Manages secure connections and performs decryption on the load balancer.
         
-        ![image.png](assets/images/System-Architecture Design-07.png)
+        ![image.png](https://serdarcanb.github.io/assets/images/System-Architecture-Design-07.png)
         
 - **Service Mesh (e.g., Istio):**
     - **Managing Microservice Communication:** Routes and controls traffic between services.
@@ -179,7 +179,7 @@ To ensure real-time updates, transactional integrity, and high availability, I w
 
 ### **ii. Acknowledgment (ACK) Mechanisms:**
 
-![image.png](assets/images/System-Architecture Design-08.png)
+![image.png](https://serdarcanb.github.io/assets/images/System-Architecture-Design-08.png)
 
 - **On the Producer Side:**
     - **acks=all Setting:** The producer waits for confirmation that the message has been written to all replicas.
@@ -252,7 +252,7 @@ To process sequential updates and prevent delay or data loss, I would prefer **A
     - **High Scalability:** Designed to process large amounts of data.
     - **Architectural Design:** Master node, data node, and coordinator node architecture must be carefully planned.
         
-        ![image.png](assets/images/System-Architecture Design-09.png)
+        ![image.png](https://serdarcanb.github.io/assets/images/System-Architecture-Design-09.png)
         
 - **Logstash:**
     - **Data Processing and Transformation:** Log data is collected from various sources, processed, and forwarded to Elasticsearch.
@@ -315,7 +315,7 @@ To process sequential updates and prevent delay or data loss, I would prefer **A
     - **Report Preparation:** A report is created detailing the incident, its impacts, and solutions.
     - **Information Sharing:** Shared within the team and, if necessary, across the organization.
         
-        ![image.png](assets/images/System-Architecture Design-10.png)
+        ![image.png](https://serdarcanb.github.io/assets/images/System-Architecture-Design-10.png)
         
     
 
