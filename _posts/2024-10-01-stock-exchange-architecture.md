@@ -5,7 +5,6 @@ modified: 2024-10-01
 excerpt: "<br>"
 author: Serdarcan Buyukdereli
 title: Stock Exchange Architecture
-permalink: /about/
 author_profile: true
 comments: true
 categories:
