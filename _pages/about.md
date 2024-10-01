@@ -11,8 +11,6 @@ comments: true
 ---
 
 
-![Profile Picture](/assets/images/bio-photo.png)
-
 ## About Serdarcan Büyükdereli
 
 I am **Serdarcan Büyükdereli**, an experienced **DevOps and Cloud Engineer** with over 7 years of expertise in **microservice architecture** and **cloud infrastructure management**. Throughout my career, I have gained hands-on experience in managing and automating cloud-based systems using tools like **Docker**, **Kubernetes**, **Helm**, **Ansible**, **Terraform**, and **GitOps** processes. My work also includes the integration and management of **PostgreSQL**, **Kafka**, **Redis**, and **Prometheus** monitoring systems.
