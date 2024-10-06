@@ -20,6 +20,7 @@ tags:
 
 excerpt: Stock exchange architecture is the system design that enables fast, secure, and efficient trading of securities, ensuring real-time data processing and reliability in financial markets*.
 pinned: false
+toc: true
 
 ---
 
