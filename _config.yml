@@ -23,7 +23,7 @@ title                    : "Tech Tips from Serdarcan"
 title_separator          : ""
 subtitle                 : #"Version 2.0" # site tagline that appears below site title in masthead
 name                     : "Serdarcan Büyükdereli"
-description              : "DevOps and Cloud Engineer"
+description              : "DevOps and Cloud Articles"
 url                      : "https://serdarcanb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/"
 repository               : "serdarcanb/serdarcanb.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -119,7 +119,7 @@ author:
   name             : "Serdarcan Büyükdereli"
   avatar           : "/assets/images/bio-photo.png"
   bio              : "**DevOps and Cloud Engineer**"
-  location         : "Turkey"
+  location         : 
   email            : 
   links:
     - label: "Email"
