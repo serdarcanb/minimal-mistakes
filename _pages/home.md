@@ -1,12 +1,10 @@
 ---
 layout: single
 permalink: /
-hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/main-image.png
   overlay_filter: .8
-  teaser: /assets/images/main-image.png
 ---
 
 ## Latest Posts
