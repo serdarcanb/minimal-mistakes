@@ -23,7 +23,7 @@ pinned: false
 toc: true
 toc_label: Stock Exchange Architecture
 toc_icon: "cog"
-
+image: https://serdarcanb.github.io/assets/images/System-Architecture-Design.png
 ---
 
 # **1. System Architecture Design**
