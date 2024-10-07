@@ -6,11 +6,10 @@ header:
   overlay_image: /assets/images/main-image.png
   overlay_filter: .6
 author_profile: true
-
 ---
 
-<div class="latest-posts">
-  {% assign posts = site.posts | limit:3 %}
+<div class="latest-posts" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; padding: 20px;">
+  {% assign posts = site.posts %}
 
   {% for post in posts %}
   {% capture post_image %}
@@ -21,12 +20,12 @@ author_profile: true
     {% endif %}
   {% endcapture %}
 
-  <div class="feature-row">
-    <div class="feature-row-item">
-      <img src="{{ post_image }}" alt="{{ post.title }}">
+  <div class="feature-row-item" style="text-align: center; border: 1px solid #eaeaea; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img src="{{ post_image }}" alt="{{ post.title }}" style="width: 100%; height: auto;">
+    <div style="padding: 15px;">
       <h2>{{ post.title }}</h2>
       <p>{{ post.excerpt }}</p>
-      <a href="{{ post.url }}" class="btn btn--primary">Read More</a>
+      <a href="{{ post.url }}" class="btn btn--primary" style="padding: 10px 20px; display: inline-block; margin-top: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 4px;">Read More</a>
     </div>
   </div>
 
