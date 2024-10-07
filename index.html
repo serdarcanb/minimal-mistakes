@@ -1,3 +1,32 @@
 ---
-author_profile: true
+layout: home
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/main-image.png
+  overlay_filter: .8
 ---
+
+<div class="latest-posts">
+  {% assign posts = site.posts | limit:3 %}
+
+  {% for post in posts %}
+  {% capture post_image %}
+    {% if post.image %}
+      {{ post.image }}
+    {% else %}
+      /assets/images/default-image.jpg
+    {% endif %}
+  {% endcapture %}
+
+  <div class="feature-row">
+    <div class="feature-row-item">
+      <img src="{{ post_image }}" alt="{{ post.title }}">
+      <h2>{{ post.title }}</h2>
+      <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url }}" class="btn btn--primary">Read More</a>
+    </div>
+  </div>
+
+  {% endfor %}
+</div>
