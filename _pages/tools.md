@@ -2,7 +2,7 @@
 layout: single
 tags:
 - tools
-modified: 2024-10-01
+modified: 2024-11-03
 excerpt: "<br>"
 author: Serdarcan Buyukdereli
 title: Open Source Tools
@@ -24,8 +24,8 @@ This repository is a growing collection of open-source projects and free tools, 
 
 ## 🚀 Latest Additions
 
-📅 **[Weekly Dev Tech Pulse#2](https://serdarcanb.github.io/posts/2024-10-20-weekly-dev-tech-pulse-2/)**  
-Date: 20.10.2024
+📅 **[Weekly Dev Tech Pulse#4](https://serdarcanb.github.io/posts/2024-11-03-weekly-dev-tech-pulse-4/)**  
+Date: 03.11.2024
 
 Check out more projects in the [projects section](https://github.com/serdarcanb/open-source-tools).
 
@@ -60,6 +60,11 @@ Click the categories below to filter tools by type:
 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | ![Github Stars](https://img.shields.io/github/stars/toeverything/AFFiNE) | Free  | There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. |  `open-source` `note-taking` `self-hosted` `productivity` `knowledge-management` |
 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | ![Github Stars](https://img.shields.io/github/stars/CorentinTh/it-tools) | Free  | Collection of handy online tools for developers, with great UX. |  `open-source` `web-based` `self-hosted` `productivity` `developer-tools` |
 | [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | ![Github Stars](https://img.shields.io/github/stars/Cinnamon/kotaemon) | Free  | An open-source RAG-based tool for chatting with your documents.|  `open-source` `document-chatbot` `self-hosted` `retrieval-augmented-generation` `ai` |
+| [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | ![Github Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy) | Free  | AppFlowy is an open-source alternative to Notion, designed for users who want complete control over their productivity tool. |  `open-source` `productivity` `self-hosted` `notion-alternative` `customizable` |
+| [mattermost/mattermost](https://github.com/mattermost/mattermost) | ![Github Stars](https://img.shields.io/github/stars/mattermost/mattermost) | Free  | Mattermost is an open-source messaging and collaboration platform designed for secure team communication and workflow integration. |  `open-source` `collaboration` `self-hosted` `team-communication` `slack-alternative` |
+| [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) | ![Github Stars](https://img.shields.io/github/stars/semaphoreui/semaphore) | Free  | Semaphore is an open-source, self-hosted platform for deploying and managing Ansible playbooks with an intuitive web interface |  `open-source` `ansible` `self-hosted` `terraform` `ui` |
+| [netdata/netdata](https://github.com/netdata/netdata) | ![Github Stars](https://img.shields.io/github/stars/netdata/netdata) | Free  | Netdata is an open-source, real-time monitoring and troubleshooting tool for systems and applications, providing detailed insights through an intuitive web interface. |  `open-source` `monitoring` `self-hosted` `real-time` `ui` |
+| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | ![Github Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io) | Free  | “changedetection.io is an open-source tool that monitors websites for content changes, alerting users to updates, restocks, and price changes.” |  `open-source` `website-monitoring` `self-hosted` `crawler` `ui` |
 
 
 
@@ -73,6 +78,8 @@ Click the categories below to filter tools by type:
 | [termius](https://termius.com/) | Termius is a modern SSH client that simplifies secure server management, offering cross-platform access and collaboration features for Dev teams. | `ssh` `cli` `Free-Options` |
 | [ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) | A local https proxy server using docker as backend. | `ssl` `local` `Free` |
 | [epublifier](https://github.com/maoserr/epublifier) | Converts some webnovels to epub format. | `extension` `epub` `Free` |
+| [gitbutler](https://github.com/gitbutlerapp/gitbutler) | GitButler is an open-source Git client that allows developers to manage multiple branches at once with virtual branches, enhancing productivity and simplifying workflows. | `git-client` `open-source` `Free` |
+| [Captain](https://getcaptain.co/) | Manage Docker containers from the menu bar in macOS. | `docker` `open-source` `Free` |
 
 
 ### Video & Podcast
@@ -81,6 +88,7 @@ Click the categories below to filter tools by type:
 |:---------------------------------------------------------------------------------------------------------------------------------------------- |
 | [How Notion Scaled to 100 Million Users Without Their Database Exploding](https://www.youtube.com/watch?v=HruBoinmPBA) | 
 | [How Uber Handles TRILLIONS of Transactions](https://www.youtube.com/watch?v=qGAPokt6Buo) | 
+| [The Untold Story of GitHub](https://www.youtube.com/watch?v=THtsXAewIVc) | 
 
 
 ### Article
@@ -98,3 +106,6 @@ Click the categories below to filter tools by type:
 | [Designing and testing a highly available Kafka cluster on Kubernetes](https://learnk8s.io/kafka-ha-kubernetes) | 
 | [How to Self-host a Container Registry](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry) | 
 | [First eBPF program](https://prateek-singh.hashnode.dev/first-ebpf-program) | 
+| [How Amazon S3 Works](https://newsletter.systemdesign.one/p/s3-architecture) | 
+| [Git Branching Strategies](https://newsletter.techworld-with-milan.com/p/git-branching-strategies) | 
+| [10 Best Resources to Learn Software Architecture in 2025](https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76) | 
