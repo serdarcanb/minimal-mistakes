@@ -256,7 +256,7 @@ seo_description: Stay updated with Weekly Dev Tech Pulse, your go-to source for 
             <a href="#" class="badge bg-primary text-decoration-none">website-monitoring</a>
             <a href="#" class="badge bg-primary text-decoration-none">self-hosted</a>
           </p>
-          <a href="htthttps://github.com/dgtlmoon/changedetection.io" class="btn btn-outline-dark btn-sm">View the Project</a>
+          <a href="https://github.com/dgtlmoon/changedetection.io" class="btn btn-outline-dark btn-sm">View the Project</a>
         </div>
       </div>
     </div>
